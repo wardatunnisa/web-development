@@ -1,0 +1,14 @@
+div {
+  background: purple;
+  color: white;
+}
+
+#quote {
+  font-family: "verdana", "gill sans";
+  color: black;
+}
+
+.movie {
+  color: white;
+  background: steelblue;
+}
